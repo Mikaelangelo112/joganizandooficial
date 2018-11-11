@@ -1,0 +1,22 @@
+{
+  "name": "joganizando",
+  "version": "1.0.0",
+  "description": "site joganizando o melhor portal de notícias games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikaelangelo112/joganizandooficial.git"
+  },
+  "author": "Mikael Angelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikaelangelo112/joganizandooficial/issues"
+  },
+  "homepage": "https://github.com/Mikaelangelo112/joganizandooficial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
